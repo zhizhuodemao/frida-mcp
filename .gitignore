@@ -47,12 +47,11 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
-# Project specific  
+# Project specific
 test.js
 *.md
 !README.md
 !docs/**/*.md
 CLAUDE.md
-脚本大全.md
 uv.lock
 .claude/
