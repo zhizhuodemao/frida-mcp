@@ -1,0 +1,11 @@
+[project]
+name = "frida-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "frida==16.2.1",
+    "mcp[cli,fastmcp]>=1.13.1",
+    "pydantic>=2.11.7",
+]

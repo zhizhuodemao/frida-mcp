@@ -1,0 +1,7 @@
+{
+  "server_path": "/data/local/myfr",
+  "server_name": "aaabbb",
+  "server_port": 27042,
+  "device_id": null,
+  "adb_path": "adb"
+}
